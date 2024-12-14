@@ -25,7 +25,7 @@ A simple, responsive Weather App built using **HTML**, **CSS (Bootstrap 5)**, an
 
 ## 🌐 Live Demo
 You can view the live demo of the app here:
-[Weather App Live Demo](#)
+[Weather App Live Demo](https://dima-br.github.io/weather-app/)
 
 ---
 
